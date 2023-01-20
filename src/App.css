@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+button{
+  background-color: aqua;
+  border-radius: 30px;
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+*{
+  text-align: left;
+  background-color: rgb(6, 6, 36);
+  color: brown;
+}
+
